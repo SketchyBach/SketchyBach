@@ -64,7 +64,7 @@
 ### 🖼️ Just a Morty in a Cyber World
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SketchyBach/SketchyBach/main/rick-morty.gif" alt="Rick and Morty Dancing" width="400" />
+  <img src="https://raw.githubusercontent.com/SketchyBach/SketchyBach/main/rick-morty.gif" alt="Rick and Morty Dancing" width="800" />
 </p>
 
 ---
