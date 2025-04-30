@@ -69,5 +69,5 @@
 
 ---
 
-> 🧠 “Sometimes science is more art than science, Morty. A lot of people don’t get that.” – Rick Sanchez
+🧠 "What, so everyone’s supposed to sleep every single night now? You realize that nighttime makes up half of all time?" — Rick Sanchez
 
