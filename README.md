@@ -1,8 +1,15 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=SketchyBach&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SketchyBach&layout=compact&theme=tokyonight)
+​
 
 
+Hi, I’m Yarin Suisa! I’m a cybersecurity student with a strong background in networking and Linux systems. I have a passion for developing security tools and automating tasks to make penetration testing easier. In my projects, I love exploring Wi-Fi security, network analysis, and other hacking techniques while continuously learning and sharing knowledge in the cybersecurity field.
+🔗 Connect with Me
 
-![Python](https://img.shields.io/badge/code-python-blue)
-![Shell](https://img.shields.io/badge/code-bash-green)
-![Security](https://img.shields.io/badge/focus-cybersecurity-red)
+🛠 Skills & Tools
+
+🚀 Projects
+
+WiFi Exploit Tool – A Python-based toolkit for Wi-Fi exploitation. Enables monitor mode, scans for nearby networks, and automates attacks on vulnerable Wi-Fi access points.
+Banner Grabbing Tool – A lightweight Bash script for banner grabbing. Helps identify services by capturing network service banners from target hosts (for use on authorized systems only!).
+📊 GitHub Stats
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SketchyBach&show_icons=true&theme=tokyonight" alt="Yarin's GitHub Stats" height="165" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SketchyBach&theme=tokyonight" alt="Yarin's GitHub Streak" height="165" /> </div> Thanks for visiting! 😊
