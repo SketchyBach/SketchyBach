@@ -1,7 +1,7 @@
-<!-- Rick and Morty Themed GitHub Profile README for Yarin Suisa -->
+<!-- ✅ Rick and Morty Themed GitHub Profile README for Yarin Suisa (fully working version) -->
 
 <p align="center">
-  <img src="https://i.imgur.com/NpCmgkS.png" alt="Rick and Morty Portal Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SketchyBach/SketchyBach/main/assets/rick-banner.png" alt="Rick and Morty Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋 I'm Yarin Suisa</h1>
@@ -80,7 +80,7 @@
 ### 🖼️ Just a Morty in a Cyber World
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Rick and Morty GIF" width="400" />
+  <img src="https://media.tenor.com/YnoB9bceykcAAAAC/rick-and-morty-running.gif" alt="Rick and Morty GIF" width="400" />
 </p>
 
 ---
