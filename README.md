@@ -25,50 +25,31 @@
 
 - **EMEA Distributor MVP** - Palo Alto Networks (Mar 2026)
 - **Award of Excellence** - Head of the Research Division, IDF Intelligence Corps (Jan 2023)
-
----
-
-### Tools & Technologies
-
-**Security & Architecture:**
-- Palo Alto Networks (Cortex XDR, XSIAM, XSOAR, Cortex Cloud, Xpanse, NGFW, SASE)
-- Fortinet
-- SIEM / SOAR
-
-**Offensive & Networking:**
-- Linux & Bash
-- Python
-- Wireshark
-- Burp Suite
-- Metasploit
-- Nmap
-- Hydra
-- Mimikatz
-
 ---
 
 ### Certifications
 
 **Palo Alto Networks**
-- Certified Security Operations Professional
-- Certified Security Platform Instructor (PCSPI)
-- Certified XDR Analyst & XDR Engineer
-- SASE Titan Engineer & SD-WAN Engineer
-- Certified Next-Generation Firewall Engineer
+- Palo Alto Certified Security Operations Professional
+- Palo Alto Networks Certified Security Platform Instructor (PCSPI)
+- Palo Alto Networks Certified XDR Analyst 
+- Palo Alto Networks Certified XDR Engineer
+- Palo Alto Networks Certified Next-Generation Firewall Engineer
+- Titan Browser Engineer
+- Titan SD-WAN Engineer
+- Palo Alto SASE Titan Engineer 
 - CYBERFORCE: Defender
 
-**Networking, Linux & Additional Vendors**
+**Additional Vendors**
 - [Cisco Certified Network Associate (CCNA)](https://cp.certmetrics.com/cisco/en/public/verify/credential/b3e16211fcd34568adcff6e8fbf68592)
 - Fortinet Certified Associate in Cybersecurity
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000642695/uvhza29aqu)
 
 ---
 
-### Contact & Profiles
+### Contact 
 
-- **Email:** [yarin.suissa@gmail.com](mailto:yarin.suissa@gmail.com)
 - **LinkedIn:** [Yarin Suisa](https://www.linkedin.com/in/yarin-suisa)
-- **TryHackMe:** [SketchyBach](https://tryhackme.com/p/SketchyBach)
 
 ---
 
