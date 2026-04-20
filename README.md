@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Yarin Suisa</h1>
 
 <p align="center">
-  <em>Presales Security Engineer @ Zebra Technologies | Official Cortex Instructor | Pentesting Explorer</em>
+  <em>Sales Engineer @ Zebra Technologies | Official Cortex Instructor | Pentesting Explorer</em>
 </p>
 
 ---
