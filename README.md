@@ -12,7 +12,7 @@
 
 ### About Me
 
-- **Currently:** Presales Security Engineer at Zebra Technologies, specializing in security architecture and platform adoption across modern enterprise environments.
+- **Currently:** Sales Engineer at Zebra Technologies, specializing in security architecture and platform adoption across modern enterprise environments.
 - **Educator:** Official Palo Alto Networks Certified Security Platform Instructor (PCSPI), delivering technical training on Cortex technologies.
 - **Focus Areas:** The Palo Alto Networks Cortex platform (XDR, XSIAM, XSOAR, Cortex Cloud, Xpanse), NGFW, SASE, and translating complex capabilities into real operational outcomes through PoCs.
 - **Background:** Former Penetration Tester & Cybersecurity Instructor, and former Commander in the IDF Military Intelligence Research Division.
